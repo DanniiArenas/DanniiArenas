@@ -7,6 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/DanniiArenas/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/DanniiArenas/ticket-lifecycle)
 - <b>Microsoft Azure</b>
+  - [Installing and Configuring Azure and Azure VMs](https://github.com/DanniiArenas/azure-install)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/DanniiArenas/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/DanniiArenas/azure-network-protocols)
 
