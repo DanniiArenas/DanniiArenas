@@ -3,8 +3,8 @@
 <h2> Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b> (Work In Progress)
-<!--
   - [osTicket: Prerequisites and Installation](https://github.com/DanniiArenas/osticket-prereqs)
+<!--
   - [osTicket: Post-Installation Configuration](https://github.com/DanniiArenas/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/DanniiArenas/ticket-lifecycle)
 -->
