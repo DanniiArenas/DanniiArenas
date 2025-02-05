@@ -7,9 +7,9 @@
 
   <p> 
 
-  [Installing and Configuring Azure and Azure VMs](https://github.com/DanniiArenas/azure-install)
+  - [Installing and Configuring Azure and Azure VMs](https://github.com/DanniiArenas/azure-install)
 
-  [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/DanniiArenas/azure-network-protocols)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/DanniiArenas/azure-network-protocols)
   </p>
 
 
