@@ -1,6 +1,15 @@
 <h1>Hello, I'm Daniel, an <a href="https://linkedin.com/in/daniel-arenas-jr">IT Professional</a>☺</h1>
 
 <h2> Information Technology Projects:</h2>
+<details>
+
+  <summary>Frequently Asked Questions</summary>
+
+  <p>What is the difference between a fork and a star?</p>
+
+  <p>How do I create a pull request?</p>
+
+</details>
 
 - <b>osTicket (Help Desk Ticketing System)</b> (Work In Progress)
   - [osTicket: Prerequisites and Installation](https://github.com/DanniiArenas/osticket-prereqs)
