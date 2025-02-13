@@ -18,7 +18,7 @@
 
 <details>
 
-<summary>osTicket (Help Desk Ticketing System) 'Work In Progress'</summary>
+<summary>osTicket (Help Desk Ticketing System)</summary>
 
   <p> 
 
