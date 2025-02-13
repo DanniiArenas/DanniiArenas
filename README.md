@@ -25,6 +25,8 @@
   - [osTicket: Prerequisites and Installation](https://github.com/DanniiArenas/osticket-prereqs)
 
   - [osTicket: Post-Installation Configuration](https://github.com/DanniiArenas/post-install-config)
+  
+  - [osTicket: Ticket Lifecycle Example](https://github.com/DanniiArenas/ticket-lifecycle)
   </p>
 
 </details>
