@@ -31,16 +31,13 @@
 
 </details>
 
-<!--
-- <b>osTicket (Help Desk Ticketing System)</b> (Work In Progress)
-  - [osTicket: Prerequisites and Installation](https://github.com/DanniiArenas/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/DanniiArenas/post-install-config)
-<!--
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/DanniiArenas/ticket-lifecycle)
--->
+<details>
 
-<!--
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/DanniiArenas/configure-ad) -->
+<summary>Active Directory within Azure 'Ongoing'</summary>
+
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/DanniiArenas/configure-ad)
+
+</details>
 
 <h2>Connect with me:</h2>
 
